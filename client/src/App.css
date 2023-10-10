@@ -1,0 +1,63 @@
+/* Home Page */
+.home{
+    padding-top: 230px;
+    color: rgb(243, 4, 4);
+    text-align: center; 
+}
+.backrndhome{
+    background-image: url('../src/images/back2.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+}
+
+/* Home page  */
+.learn-heading{
+  color: rgb(30, 30, 136);
+  font-weight: bold;
+}
+
+/* for registration */
+.signup-form{
+  padding: 8rem ;
+  background:  #f7f7f7;
+}
+
+/* for signin  */
+.signin-content{
+  padding: 8rem;
+  background:  #f7f7f7;
+
+
+}
+.contact-form{
+  padding:10rem;
+
+
+}
+
+/* Nav bar */
+.container-fluid a{
+  color: #f7f7f7;
+}
+.container-fluid a:hover{
+  color: rgb(233, 8, 8);
+}
+.navbar-brand{
+  color: #f7f7f7;
+}
+.navbar{
+  background-color: rgb(0, 0, 0);
+
+}
+.nav-item a{
+  color: #f7f7f7;
+
+}
+.nav-item a:hover{
+  color: rgb(233, 8, 8);;
+}
+.center-li{
+  
+}
